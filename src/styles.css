@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap-grid.min.css";
+@import "~ag-grid-community/dist/styles/ag-grid.css";
+@import "~ag-grid-community/dist/styles/ag-theme-balham.css"; 
+@import "~font-awesome/css/font-awesome.min.css";
+
+.ag-row-hover {
+    background-color: #BAC1B7 !important;
+  }
+  
+  .ag-column-hover {
+    background-color: #9BF176;
+  }

@@ -1,0 +1,14 @@
+
+
+
+<div [hidden] = "isCurrentRowEditing">
+    <button class="edit" (click) = "update('update')" data-action="edit">
+        Edit
+    </button>
+    <button class="delete" (click) = "update('delete')" [disabled] = "inActionDelete" data-action="delete">
+        Delete
+    </button>
+    <button class="cancel" (click) = "update('cancel')" [disabled] = "inActionCancel" data-action="cancel">
+        Cancel
+    </button>
+</div>

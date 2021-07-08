@@ -1,0 +1,12 @@
+.sick-days-warning {
+    background-color: sandybrown !important;
+  }
+  
+  .sick-days-breach {
+    background-color: lightcoral !important;
+  }
+
+div button.custome {
+  width: 100px;
+  margin: 5px;
+}

@@ -1,0 +1,16 @@
+div button.edit{
+    background-color: #8CBE7D;
+    margin: 3px;
+}
+
+div button.delete{
+    background-color: #BE7D7D;
+    margin: 3px;
+
+}
+
+div button.cancel{
+    background-color: #B9B8B8;
+    margin: 3px;
+
+}
